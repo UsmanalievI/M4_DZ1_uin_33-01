@@ -1,0 +1,11 @@
+.list{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: magenta;
+    height: 100px;
+}
+.item{
+    border: 5px solid red;
+    font-size: 20px;
+}
